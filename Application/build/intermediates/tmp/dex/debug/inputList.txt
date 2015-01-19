@@ -1,0 +1,4 @@
+C:\Java\SlidingTabsColors\Application\build\intermediates\classes\debug
+C:\Java\SlidingTabsColors\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-cf4fa48b12e3d1e5b206ac8b64a10d4a91bde25e.jar
+C:\Java\SlidingTabsColors\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-f696413a7a565087c3d4cf7355ffd6bf91824fc0.jar
+C:\Java\SlidingTabsColors\Application\build\intermediates\pre-dexed\debug\classes-da0135b6c5756f0a3f77ff90180a76f728ed288d.jar
